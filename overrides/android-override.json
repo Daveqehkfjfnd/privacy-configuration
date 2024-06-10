@@ -1113,7 +1113,8 @@
             }
         },
         "dummyWebMessageListener": {
-            "state": "disabled"
+            "state": "enabled",
+            "minSupportedVersion": 52040000,
         }
     },
     "unprotectedTemporary": [],
